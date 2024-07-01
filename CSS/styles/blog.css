@@ -1,0 +1,21 @@
+.header{
+    height: 200px;
+    /*background-image: url('Blue.jpg');*/
+    background-image: url(../Dunky.jpg);
+    background-size: contain;
+}
+h3{
+    color: #ff5e00;
+    text-decoration: underline wavy green;
+}
+p{
+    color: blue;
+}
+.page-tittle{
+    font-weight: 100;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif';
+}
+ul li{
+    color: purple;
+    border: 10px;
+}
